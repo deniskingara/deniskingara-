@@ -21,7 +21,7 @@ I'm an aspiring **data scientist** and **AI enthusiast** based in Nairobi, Kenya
 ### 📫 Connect with me
 - Email: [denikingara@gmail.com](mailto:denikingara@gmail.com)
 - GitHub: [deniskingara](https://github.com/deniskingara)
-- LinkedIn: [your LinkedIn link here]
+- LinkedIn: [yet to come]
 
 ---
 *“Learning never exhausts the mind.” – Leonardo da Vinci*
